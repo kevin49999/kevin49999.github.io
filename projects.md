@@ -10,7 +10,9 @@ title: Projects
 Never forget people again.
 
 [Website](https://groupquestionmark.com/)  
-[App Store](https://apps.apple.com/us/app/group/id6737206678)  
+
+<a href="https://apps.apple.com/us/app/wrblr/id6737206678?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/group-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+
 
 ## wrblr
 
@@ -18,19 +20,25 @@ Sharing with just your friends.
 
 [Blog Post](/2023/08/29/wrblr-social-media-launch-wrblr.html)
 
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/7f/0c/1a7f0c79-25dc-9203-c432-05bf72df3da2/AppIcon-1x_U007ephone-0-85-220.png/540x540bb.jpg" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+
 ## Dailies
 
 A daily planning app I made to replace the notebooks I was filling over the years.
 
 [GitHub](https://github.com/kevin49999/Dailies)  
-[App Store](https://apps.apple.com/us/app/daily-todos/id1543653290)
+
+<a href="https://apps.apple.com/us/app/daily-todos/id1543653290" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/dailies-app-icon.png" alt="Daily Todos" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 ## Go - Play with Friends
 
 An app for playing Go with a friend next to you.
 
 [GitHub](https://github.com/kevin49999/Go-iOS)   
-[App Store](https://apps.apple.com/us/app/go-play-with-friends/id1472121646)
+
+<a href="https://apps.apple.com/us/app/go-play-with-friends/id1472121646" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" target="_blank">
+  <img src="img/go-app-icon.png" alt="Go Play With Friends" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+</a>
 
 ## Paintball BST
 
@@ -56,7 +64,9 @@ I recreated old-school id Software game effects for iOS using Fabien Sanglard's 
 
 ## CARAssetsAnalyzer
 
-Analyze your app's assets in an app. Displays sizing information and displays what images would look like unconstrained. The goal was to use this to find unused and improperly sized images in a project I was working on at the time.
+Analyze your app's assets in an app. Displays sizing information and displays what images would look like unconstrained. 
+
+The goal was to use this to find unused and improperly sized images in a project I was working on at the time.
 
 ## ActivityNavigationItem
 
@@ -65,7 +75,3 @@ Animates loading after tapping a navigation item button on iOS. Install with SPM
 ## ImageAlertPresenter
 
 Inspired by the AirDrop alert on iOS. Present `UIAlertController` with a configurable image.
-
-## SpotifySwiftFuture
-
-Example project for implementing Spotify's iOS SDK that only plays music by Future.
