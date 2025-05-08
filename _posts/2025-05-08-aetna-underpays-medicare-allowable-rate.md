@@ -53,7 +53,7 @@ However the number has been wrong every month in 2025 since February. And the wr
 
 I'm also fairly certain the HCPCS codes change yearly (or possibly quarterly), and you can only search for them by year in the above link.
 
-I think what changed was was me calling with this information.
+I think what changed was me calling with this information.
 
 They also mentioned internal calculation tools (to calculate a publicly listed number in my case). I wonder what those tools are doing?
 
