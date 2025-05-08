@@ -3,7 +3,7 @@ layout: post
 title: Aetna Reimburses Exactly 25% Less Than What They Claim (Fun Investigation)
 ---
 
-__tl;dr - Aetna says they'll reimburse 140% of the "Medicare Allowable Rate" for out-of-network medical expenses. In my case they find that number and reduce it by 25%.__
+__tl;dr - Aetna says they'll reimburse 140% of the "Medicare Allowable Rate" for out-of-network medical expenses. In my case they find that number and reduce it by exactly 25%.__
 
 ![img](/img/140-claim.png)
 
@@ -47,7 +47,7 @@ Taking the non-facility price (for an in-office visit, which mine are) of $114.2
 
 That's already sounding much better! Like a lower government number with a decent multiple applied.
 
-When I called Aetna and spoke to a rep on the phone they also __confirmed this exact amount of $159.92__ (today 5/8/2025). But said the numbers were subject to change over time. So maybe that explains it?
+When I called Aetna and spoke to a rep on the phone they also __confirmed this exact amount of $159.92__ (today 5/8/2025). But said the numbers were subject to change over time. So maybe that explains the lower numbers in the previous claims?
 
 However the number has been wrong every month in 2025 since February. And the wrong number has not changed ($119.94 has gone to my deductible for each appointment).
 
@@ -67,17 +67,17 @@ Let's try doing that:
 
 $159.92 * 0.75 = __$119.94__
 
-What a strange coincidence! I almost wouldn't believe it if the person on the phone didn't confirm what I suspected the number should actually be (down to the cent). Also if the adjustment wasn't done at such a predictable percentage.
+What a strange coincidence! I almost wouldn't believe it if the person on the phone didn't confirm what I suspected the number should actually be (down to the cent). The adjustment was also done at such a predictable percentage.
 
 ### Result
 
 So what will happen to the past claims? It didn't sound like they would fix them. 
 
-I receieved a PDF in my email to fill out and mail (of course) with my complaint.
+I received a PDF in my email to fill out and mail (of course) with my complaint.
 
 I didn't receive any information that backs up the number they came up with.
 
-It sounded like my submissions going forward will be fixed, but I received no confirmation of that either. Only a verbal confirmation the correct acmount is what I found it to be ($159.92 in my case).
+It sounded like my submissions going forward will be fixed, but I received no confirmation of that either. Only a verbal confirmation the correct amount is what I found it to be ($159.92 in my case).
 
 ### Caveat
 
