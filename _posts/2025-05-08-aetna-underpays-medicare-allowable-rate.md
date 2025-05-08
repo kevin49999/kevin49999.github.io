@@ -31,7 +31,7 @@ So how did they get to that number? Let's find the "Medicare Allowable Rate" fir
 
 On the [cms.gov](https://cms.gov) site at this [URL for searching](https://www.cms.gov/medicare/physician-fee-schedule/search?Y=0&T=0&HT=0&CT=2&H1=90834&C=97&M=1) you can type in your HCPCS code (code for the service) and MAC locality (your location) and it will appear.
 
-In my exact case, these values are:
+In my case, these values are:
 * `90834` for the HCPCS code (code for the service)
 * `1320201` for the MAC code (Manhattan)
 
@@ -43,7 +43,9 @@ And here's the result:
 
 ![result](/img/cms-result.png)
 
-Taking the non-facility price (for an in-office visit, which mine are) of $114.23 and multiplying by 140% you end up with __$159.92__. This is the amount that should have gone to my deductible. 
+Taking the non-facility price (for an in-office visit, which mine are) of $114.23 and multiplying by 140% you end up with __$159.92__. This is the amount that should have gone to my deductible.
+
+That's already sounding much better! Like a lower government number with a decent multiple applied.
 
 When I called Aetna and spoke to a rep on the phone they also __confirmed this exact amount of $159.92__ (today 5/8/2025). But said the numbers were subject to change over time. So maybe that explains it?
 
