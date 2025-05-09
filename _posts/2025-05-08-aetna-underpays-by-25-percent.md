@@ -77,6 +77,8 @@ I didn't receive any information that backs up the number they came up with.
 
 It sounded like my submissions going forward will be fixed, but I received no confirmation of that either. Only a verbal confirmation the correct amount is what I found it to be.
 
+Hopefully someone else reading this can save 25% on their out-of-network submissions with Aetna.
+
 ### Caveat
 
 I can't see anything that says Aetna is required by law to pay 140% of the "Medicare Allowable Rate" for out-of-network medical claims. 
