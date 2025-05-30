@@ -11,7 +11,7 @@ Never forget people again.
 
 [Website](https://groupquestionmark.com/)  
 
-<a href="https://apps.apple.com/us/app/wrblr/id6737206678?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/group-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+<a href="https://apps.apple.com/us/app/wrblr/id6737206678?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/group-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 
 ## wrblr
@@ -20,7 +20,7 @@ Sharing with just your friends.
 
 [Blog Post](/2023/08/29/wrblr-social-media-launch-wrblr.html)
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/7f/0c/1a7f0c79-25dc-9203-c432-05bf72df3da2/AppIcon-1x_U007ephone-0-85-220.png/540x540bb.jpg" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+<img src="img/app-icons/wrblr-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
 
 ## Dailies
 
@@ -28,7 +28,7 @@ A daily planning app I made to replace the notebooks I was filling over the year
 
 [GitHub](https://github.com/kevin49999/Dailies)  
 
-<a href="https://apps.apple.com/us/app/daily-todos/id1543653290" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/dailies-app-icon.png" alt="Daily Todos" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+<a href="https://apps.apple.com/us/app/daily-todos/id1543653290" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/dailies-app-icon.png" alt="Daily Todos" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 ## Go - Play with Friends
 
@@ -37,7 +37,7 @@ An app for playing Go with a friend next to you.
 [GitHub](https://github.com/kevin49999/Go-iOS)   
 
 <a href="https://apps.apple.com/us/app/go-play-with-friends/id1472121646" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" target="_blank">
-  <img src="img/go-app-icon.png" alt="Go Play With Friends" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+  <img src="img/app-icons/go-app-icon.png" alt="Go Play With Friends" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
 </a>
 
 ## Paintball BST
