@@ -7,7 +7,7 @@ title: Projects
 
 ## Birderdex
 
-<a href="https://testflight.apple.com/join/jSHPWCGA" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/birderdex-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+<a href="https://apps.apple.com/us/app/birderdex/id6742725202" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/birderdex-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 ## group?
 
