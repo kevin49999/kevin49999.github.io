@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aetna Reimburses 25% Less Than What They Claim (Fun Investigation)
+title: Aetna Reimburses 25% Less Than What They Claim
 ---
 
 __tl;dr - Aetna says they'll reimburse 140% of the "Medicare Allowable Rate" for out-of-network medical expenses. In my case they find that number and reduce it by 25%.__
