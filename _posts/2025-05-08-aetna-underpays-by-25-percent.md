@@ -21,7 +21,7 @@ Before we get to what the number actually is, let's start with what they say it 
 
 ### Out-of-Network Claims
 
-Going out-of-network and submitting claims follows a different logic than going in-network. When you go in-network you want a high "Plan Discount". You want the amount you pay (what goes towards the deductible or out-of-pocket max) to be low, because that's what you owe.
+Going out-of-network and submitting claims follows a different logic than going in-network. When you go in-network you want a high "Plan Discount". You want the amount you pay (what goes towards the deductible) to be low, because that's what you owe.
 
 However, in this case I've already paid the full amount ($205) for the service. There is no "Plan Discount" and they haven't talked to my provider. This term used here is highly misleading. I've already paid and now want that amount to go towards my deductible.
 
