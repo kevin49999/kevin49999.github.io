@@ -19,11 +19,17 @@ Before we get to what the number actually is, let's start with what they say it 
 
 ![img](/img/aetna-breakdown.png)
 
-If you do the math ($205-$85.06) you end up with __$119.94__ which is what went to my deductible. 
+### Out-of-Network Claims
 
-![deductible](/img/deductible.png)
+Going out-of-network and submitting claims follows a different logic than going in-network. When you go in-network you want a high "Plan Discount". You want the amount you pay (what goes towards the deductible or out-of-pocket max) to be low, because that's what you owe.
 
-For 45 minutes of psychotherapy in Manhattan that's sounding a bit low already. Let's see what the government thinks you should pay and then apply Aetna's 140% multiple.
+However, in this case I've already paid the full amount ($205) for the service. There is no "Plan Discount" and they haven't talked to my provider. This term used here is highly misleading. I've already paid and now want that amount to go towards my deductible.
+
+When going out-of-network like this you want to hit your deductible as fast as possible. Once you've hit that, you want the amount subject to coinsurance to be as high as possible.
+
+If you do the math ($205-$85.06) you end up with __$119.94__ which is what went to my deductible.
+
+For 45 minutes of psychotherapy in Manhattan that's sounding a bit low already (I paid $205 remember!). Let's see what the government thinks you should pay and then apply Aetna's 140% multiple.
 
 ### Medicare Allowable Rate
 
@@ -41,9 +47,11 @@ And here's the result:
 
 ![result](/img/cms-result.png)
 
+### Result
+
 Taking the non-facility price (in-office visit) of $114.23 and multiplying by 140% you end up with __$159.92__. This is the amount that should have gone to my deductible.
 
-That's already sounding much better! Like a lower government number with a decent multiple applied.
+That's already sounding much better! Less than what I actually paid, but better. Like a lower government number with a decent multiple applied.
 
 When I called Aetna and spoke to a rep on the phone (today 5/8/2025) __they confirmed the number I found__. They said their internal system (for a publicly available number) also "calculated" that the __reimbursement amount was exactly $159.92__ down to the cent. 
 
