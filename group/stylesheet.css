@@ -1,0 +1,48 @@
+
+p {
+	font-family: "Helvetica Neue", "Helvetica Neue Light", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 16px;
+	color: black;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+	font-family: "Helvetica Neue", "Helvetica Neue Light", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 16px;
+	color: black;
+}
+
+a:hover	{
+ 	color: gray;
+}	
+
+body {
+    background-color: #D3D3D3;
+}
+
+#icon {
+	margin: 32px 0px 32px 32px;
+}
+
+#badge {
+	margin: 32px 0px 32px 32px;
+}
+
+
+img {
+	border-radius: 28.12px;
+}
+
+#text-container {
+	margin: 0px 0px 0px 32px;
+}
+
+#email:hover {
+	text-decoration: underline; 
+}
+
+#privacy:hover {
+	color: white;
+}
+
