@@ -13,7 +13,7 @@ title: Projects
 
 Never forget people again.
 
-<a href="https://apps.apple.com/us/app/wrblr/id6737206678?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/group-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+<a href="/group/" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/group-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 ## wrblr
 
