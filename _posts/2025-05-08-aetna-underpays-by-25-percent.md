@@ -1,35 +1,29 @@
 ---
 layout: post
-title: Aetna Reimburses 25% Less Than What They Claim
+title: Insurance
 ---
 
-__tl;dr - Aetna says they'll reimburse 140% of the "Medicare Allowable Rate" for out-of-network medical expenses. In my case they find that number and reduce it by 25%.__
+__tl;dr__ - Aetna says they'll reimburse 140% of the "Medicare Allowable Rate" for out-of-network medical expenses. In my case they find that number and reduce it by 25%.
 
 ![img](/img/140-claim.png)
 
-Let's investigate the above statement regarding out-of-network medical reimbursement.
-
-I normally wouldn't take the time, but after being reimbursed what _felt_ like the wrong number for months (but _nearly_ close enough) I needed to do the math myself.
-
-Let's take a look at this claim:
-
 _"We pay for services based on your plan's out-of-network rate for the location where you received it. __That rate is 140% of the Medicare Allowable Rate__"_
 
-Before we get to what the number actually is, let's start with what they say it is:
-
-![img](/img/aetna-breakdown.png)
+Let's investigate the above statement regarding out-of-network medical reimbursement.
 
 ### Out-of-Network Claims
 
-Going out-of-network and submitting claims follows a different logic than going in-network. When you go in-network you want a high "Plan Discount". You want the amount you pay (what goes towards the deductible) to be low, because that's what you owe.
+Going out-of-network and submitting claims follows a different logic than going in-network. When you go in-network you want a high plan discount because you want to owe less. 
 
-However, in this case I've already paid the full amount ($205) for the service. There is no "Plan Discount" and they haven't talked to my provider. This term used here is highly misleading. I've already paid and now want that amount to go towards my deductible.
+However, in my case I've already paid the full $205 to my provider. There is no real "Plan Discount" and they haven't negotiated with my provider. I've already paid and want that amount to go towards my deductible once I upload the [superbill](https://en.wikipedia.org/wiki/Superbill).
 
-When going out-of-network like this you want to hit your deductible as fast as possible. Once you've hit that, you want the amount subject to coinsurance to be as high as possible.
+When going out-of-network you want to hit your deductible as fast as possible. Once you've hit that, you want the amount subject to coinsurance to be as high as possible.
+
+![img](/img/aetna-breakdown.png)
 
 If you do the math ($205-$85.06) you end up with __$119.94__ which is what went to my deductible.
 
-For 45 minutes of psychotherapy in Manhattan that's sounding a bit low already (I paid $205 remember!). Let's see what the government thinks you should pay and then apply Aetna's 140% multiple.
+For 45 minutes of psychotherapy in Manhattan that's sounding a bit low.
 
 ### Medicare Allowable Rate
 
@@ -57,23 +51,19 @@ When I called Aetna and spoke to a rep on the phone (today 5/8/2025) __they conf
 
 How could that be? The only excuse they managed to offer was "these rates change". So maybe that explains the lower numbers in the previous claims?
 
-However the number has been wrong every month in 2025 since February. And the wrong number has not changed ($119.94 has gone to my deductible for each appointment).
+However the number has been wrong every month in 2025 since February. And the wrong number has not changed.
 
 I'm also fairly certain the HCPCS codes change yearly (or possibly quarterly though that still wouldn't explain this case). You can only search for them by year in the above link.
 
-I think what changed was me calling with this information.
+### Reduction
 
-### 25% Reduction
+If some group were interested in reimbursing a bit less, they may use the calculated number $159.92 as a starting point. 
 
-If some group were interested in reimbursing a bit less, they may use the calculated number (the government number * the 140% multiple, which was $159.92) as a starting point. 
-
-Then, decide on some arbitrary percentage to reduce it by (let's say an extremely obvious one, like 25%) to get a number that's a bit lower, but close to the real one.
-
-Let's try doing that:
+Then, decide on some arbitrary percentage to reduce it by. Let's try 25%:
 
 $159.92 * 0.75 = __$119.94__
 
-What a strange coincidence! I almost wouldn't believe it if the person on the phone didn't confirm what I suspected the number should actually be. The adjustment was also done at a predictable percentage.
+What a strange coincidence! I almost wouldn't believe it if the person on the phone didn't confirm what I suspected the number should be.
 
 ### Result
 
@@ -83,12 +73,20 @@ I received a PDF in my email to write out and mail my complaint.
 
 I didn't receive any information that backs up the number they came up with.
 
-It sounded like my submissions going forward will be fixed, but I received no confirmation of that either. Only a verbal confirmation the correct amount is what I found it to be.
+It sounded like my submissions going forward will be fixed, but I received no confirmation of that either. Only a verbal confirmation that I found the correct amount.
 
-Hopefully someone else reading this can save 25% on their out-of-network submissions with Aetna.
+Hopefully someone else reading this can save 25% on their out-of-network submissions with Aetna. Godspeed.
+
+__8/3/26__ - The number never changed after calling. My mailed complaint was unsuccesful over a year ago. Haven't submitted new claims in nearly that much time.
 
 ### Caveat
 
 I can't see anything that says Aetna is required by law to pay 140% of the "Medicare Allowable Rate" for out-of-network medical claims. 
 
 I am simply investigating whether or not they actually stick to their own claims that they post publicly on their website.
+
+### Changelog
+
+__5/8/25__ - Original post
+
+__8/3/26__ - Edits for clarity, follow up on results
