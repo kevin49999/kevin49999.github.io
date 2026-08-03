@@ -15,15 +15,15 @@ Let's investigate the above statement regarding out-of-network medical reimburse
 
 Going out-of-network and submitting claims follows a different logic than going in-network. When you go in-network you want a high plan discount because you want to owe less. 
 
-However, in my case I've already paid the full $205 to my provider. There is no real "Plan Discount" and they haven't negotiated with my provider. I've already paid and want that amount to go towards my deductible once I upload the [superbill](https://en.wikipedia.org/wiki/Superbill).
+However, in my case I've already paid the full $205 to my provider. There is no real plan discount and they haven't negotiated with my provider. I've already paid and want that amount (or as much as possible) to go towards my deductible once I upload the [superbill](https://en.wikipedia.org/wiki/Superbill).
 
-When going out-of-network you want to hit your deductible as fast as possible. Once you've hit that, you want the amount subject to coinsurance to be as high as possible.
+When going out-of-network you want to hit your deductible so insurance will start chipping in. Once you've hit it, you want the amount subject to coinsurance to be as high as possible.
 
 ![img](/img/aetna-breakdown.png)
 
 If you do the math ($205-$85.06) you end up with __$119.94__ which is what went to my deductible.
 
-For 45 minutes of psychotherapy in Manhattan that's sounding a bit low.
+For 45 minutes of psychotherapy in Manhattan that's feeling a bit low. A low amount means spending more to hit the deductible, and less reimbursement through coinsurance once it's hit. This can be a meaningful amount of money over time.
 
 ### Medicare Allowable Rate
 
@@ -37,11 +37,10 @@ Here's the search:
 
 ![search](/img/cms-search.png)
 
-And here's the result:
+And the result:
 
 ![result](/img/cms-result.png)
 
-### Result
 
 Taking the non-facility price (in-office visit) of $114.23 and multiplying by 140% you end up with __$159.92__. This is the amount that should have gone to my deductible.
 
@@ -63,7 +62,7 @@ Then, decide on some arbitrary percentage to reduce it by. Let's try 25%:
 
 $159.92 * 0.75 = __$119.94__
 
-What a strange coincidence! I almost wouldn't believe it if the person on the phone didn't confirm what I suspected the number should be.
+What a strange coincidence!
 
 ### Result
 
