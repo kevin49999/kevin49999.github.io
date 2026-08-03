@@ -22,11 +22,11 @@ a:hover	{
 }	
 
 body {
-    background-color: white;
+    background-color: rgb(42, 38, 34);
 }
 
 #face {
-	width: 250px;
+	width: 256px;
 	margin: 200px auto 0 auto;
 }
 
