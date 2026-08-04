@@ -3,7 +3,7 @@ layout: post
 title: Shutting Down an iOS Side Project
 ---
 
-My project I'm about to shutdown is a marketplace app for paintball players to buy/sell/trade gear. It never attracted a large amount of users by any means (~80 daily active users at the end), but when it felt time to shutdown the idea to pull it from the App Store without warning felt wrong. People could be in the middle of a deal and not have a way to wrap up. Also I wanted to have some closure with a project I'd spent over a year working on. 
+My project I'm about to shutdown is a marketplace app for paintball players to buy/sell/trade gear. It never attracted a huge amount of users (~80 daily active users at the end), but when it felt time to shutdown the idea to pull it from the App Store without warning felt wrong. People could be in the middle of a deal and not have a way to wrap up. Also I wanted to have some closure with a project I'd spent over a year working on. 
 
 How are you supposed to do this though? There are plenty of posts about how to build apps that others will (hopefully) use, but less on how to wind them down in a reasonable way. We are less likely to share what we may perceive as a failure. Though any difficult project (regardless of  outcome) delivers plenty of valuable lessons.
 
@@ -49,6 +49,8 @@ I think there can be a tendency to shirk responsibility when it comes to address
 * Shutdown EC2 instance I used for PayPal and sending Push Notifications (I think you can send Push Notifications with Cloud Functions in Firebase but never figured it out 🌝)
 
 * Cancel GoDaddy auto-renew for website domain, associated email address, and hosting
+
+* [Instagram](https://www.instagram.com/paintballbstapp/) I kept up
 
 Clearly this is not how you would shutdown something of a larger scale. I couldn't find any posts about ending a smaller iOS project so here we are.
 
