@@ -43,7 +43,7 @@ An app for playing Go with a friend next to you.
 
 ## Paintball BST
 
-A marketplace project I worked on from 2017-2018. I wrote a [blog post](/2018/11/11/sunsetting-iOS-side-project.html) about the experience. I was the sole developer, wrote the iOS app, backend code (before migrating to Firebase), and ran the social media.
+A marketplace project I worked on from 2017-2018. I wrote a [blog post](/2018/11/11/sunsetting-iOS-side-project.html) about the experience. I was the sole developer, wrote the iOS app, backend code (before migrating to Firebase), and ran the [social media](https://www.instagram.com/paintballbstapp/).
 
 ## Waveman
 
