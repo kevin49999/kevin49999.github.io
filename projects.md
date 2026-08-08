@@ -70,7 +70,7 @@ Built with UIKit. I still use this app every single day and love it.
 
 An app for playing Go with a friend next to you.
 
-Built with UIKit. Has had 30 DAUs with people all over the world using it the past few years. I haven't found someone to play Go with IRL yet.
+Built with UIKit. Has had 30 DAUs with people all over the world using it the past few years. I haven't found someone to play Go with irl yet.
 
 ## Paintball BST
 
@@ -106,4 +106,4 @@ Animates loading after tapping a navigation item button on iOS. Install with SPM
 
 ## ImageAlertPresenter
 
-Inspired by the AirDrop alert on iOS. Present `UIAlertController` with a configurable image.
+Inspired by the AirDrop alert on iOS. Present UIAlertController with a configurable image.
