@@ -43,7 +43,7 @@ Had close to 100 signed-up users and some beautiful posts with comments and reac
 
 Built with UIKit.
 
-Uses Firebase for the backend:
+Used Firebase for the backend:
  - Auth (Phone)
  - Firestore
  - Storage
