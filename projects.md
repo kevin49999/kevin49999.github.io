@@ -37,7 +37,7 @@ Uses Firebase for the backend:
 
 Sharing with just your friends. Very fun and difficult to make minimal social media app. 
 
-Supported fullscreen image viewing and allowed users to save images. Friends were contacts you followed were either usernames you searched for. I was your default first friend in honor of Myspace Tom.
+Supported fullscreen image viewing and allowed users to save images. Friends were contacts you followed or usernames you searched for. I was your default first friend in honor of Myspace Tom.
 
 Had close to 100 signed-up users and some beautiful posts with comments and reactions.
 
