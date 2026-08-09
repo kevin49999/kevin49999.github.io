@@ -7,7 +7,7 @@ title: Projects
 
 ## Birderdex
 
-<a href="https://apps.apple.com/us/app/birderdex/id6742725202" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/birderdex-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+<a href="https://apps.apple.com/us/app/birderdex/id6742725202" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/birderdex-app-icon.png" alt="birderdex" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 Fun way to keep a birding life list. Made with my brother who generated the bird data and pixel images.
 
@@ -17,7 +17,7 @@ Bird description text uses a typewriter style [TextRenderer](https://developer.a
 
 ## group
 
-<a href="/group/" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/group-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+<a href="/group/" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/group-app-icon.png" alt="group" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 Never forget people again. A super simple and easy to use "personal CRM" type app.
 
