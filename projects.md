@@ -70,17 +70,21 @@ Built with UIKit. I still use this app every single day and love it.
 
 An app for playing Go with a friend next to you.
 
-Built with UIKit. Has had 30 DAUs with people all over the world using it the past few years. I haven't found someone to play Go with irl yet.
+Built with UIKit. Has had 30 DAUs with people all over the world using it the past few years. I haven't found someone to play Go with IRL yet.
 
 ## Paintball BST
 
-A marketplace project I worked on from 2017-2018. I wrote a [blog post](/2018/11/11/sunsetting-iOS-side-project.html) about the experience. I was the sole developer, wrote the iOS app (UIKit), backend code (before migrating to Firebase), and ran the [social media](https://www.instagram.com/paintballbstapp/).
+A marketplace project I worked on from 2017-2018. I wrote a [blog post](/2018/11/11/sunsetting-iOS-side-project.html) about the experience. 
+
+I was the sole developer, wrote the iOS app (UIKit), backend code (before migrating to Firebase), and ran the [social media](https://www.instagram.com/paintballbstapp/) account.
 
 ## Waveman
 
 [GitHub](https://github.com/kevin49999/Waveman)
 
-A sprite game where I drew and made pixel art (thanks to this [tutorial](https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial) written by the creator of the famous game Spelunky). Written in 2015 in Objective-C.
+A sprite game where I drew and made pixel art (thanks to this [tutorial](https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial) written by the creator of the famous game Spelunky). 
+
+Written in 2015 in Objective-C with SpriteKit.
 
 # Misc.
 
