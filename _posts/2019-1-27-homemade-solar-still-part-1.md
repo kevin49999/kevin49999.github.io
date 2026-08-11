@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homemade Solar Still - Part 1
+title: Homemade Solar Still
 ---
 
 ![book](/img/homemade_still_1/book_image.jpg)
