@@ -3,7 +3,7 @@ layout: post
 title: wrblr
 ---
 
-![alex-katz](/img/alex-katz.png)
+<img src="/img/wrblaunch.png" alt="launch" style="width:400px"/>
 
 Why make a social media app in 2023. Why make anything? Is it to  SHIP, scratch an itch, give the people something, prove someone wrong, make money? I don't know but [this](https://www.goodreads.com/quotes/1394795-you-have-the-right-to-work-but-for-the-work-s) is either the best cop out ever or something much deeper.
 
@@ -29,4 +29,13 @@ Maybe that's what this is on a smaller scale. A social media app in a small deve
 
 ~~[wrblr.app](https://wrblr.app/)~~
 
-[https://x.com/wrblrapp](https://x.com/wrblrapp) has some good screenshots
+<img src="/img/wrbl1.jpeg" alt="wrbl1" style="width:400px"/>
+
+<img src="/img/wrbl2.jpeg" alt="wrbl2" style="width:400px"/>
+
+<img src="/img/wrblr1.PNG" alt="one" style="width:400px"/>
+
+<img src="/img/push.PNG" alt="p" style="width:400px"/>
+
+
+[https://x.com/wrblrapp](https://x.com/wrblrapp)
