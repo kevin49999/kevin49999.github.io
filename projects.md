@@ -17,7 +17,7 @@ Bird description text uses a typewriter style [TextRenderer](https://developer.a
 
 ## group
 
-<a href="/group/" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/group-app-icon.png" alt="group" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+<a href="https://apps.apple.com/us/app/group-your-friends/id6737206678" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" data-ol-has-click-handler="" target="_blank"><img src="img/app-icons/group-app-icon.png" alt="group" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 Never forget people again. A super simple and easy to use "personal CRM" type app.
 
@@ -31,7 +31,7 @@ Uses Firebase for the backend:
 
 ## wrblr
 
-<img src="img/app-icons/wrblr-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+<a href="/2023/08/29/wrblr-social-media-launch-wrblr.html"><img src="img/app-icons/wrblr-app-icon.png" alt="wrblr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 [Blog Post](/2023/08/29/wrblr-social-media-launch-wrblr.html)
 
