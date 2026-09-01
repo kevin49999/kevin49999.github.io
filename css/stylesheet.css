@@ -1,36 +1,42 @@
 
 p {
+	color: rgb(163, 183, 136);
 	font-family: "Helvetica Neue", "Helvetica Neue Light", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-size: 14px;
-	margin: 8px;
-	padding: 0px;
-	color: black;
+	    
+	margin: 0px;
 }
 
 a {
-	color: black;
-	font-weight: bold;
+	color: rgb(163, 183, 136);
+
 	text-decoration: none;
+
+	font-weight: bold;
 	font-family: "Helvetica Neue", "Helvetica Neue Light", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-size: 14px;
-	padding: 0px;
-	color: black;
 }
 
 a:hover	{
- 	color: gray;
-}	
+ 	color: rgb(163, 183, 136);
+
+	text-decoration: underline;
+}
 
 body {
     background-color: rgb(42, 38, 34);
 }
 
-#face {
+#skeleton {
 	width: 256px;
 	margin: 200px auto 0 auto;
 }
 
-.app {
+#text {
+	text-align: center;
+}
+
+/* .app {
 	width: 350px;
 	text-align: center;
 	margin: 48px auto 48px auto;
@@ -42,4 +48,4 @@ body {
 	border-radius: 21.05px;
 	box-shadow: 0 0 3px rgba(0, 0, 0, 0.3), inset 0 0 2px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.25);
 	margin: 0px auto 0 auto;
-}
+} */
