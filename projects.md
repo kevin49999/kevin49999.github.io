@@ -35,9 +35,7 @@ Uses Firebase for the backend:
 
 [Blog Post](/2023/08/29/wrblr-social-media-launch-wrblr.html)
 
-Sharing with just your friends. Very fun and difficult to make minimal social media app. 
-
-Supported fullscreen image viewing and allowed users to save images. Friends were contacts you followed or usernames you searched for. I was your default first friend in honor of Myspace Tom.
+Sharing with just your friends. Supported fullscreen image viewing and allowed users to save images. Friends were contacts you followed or usernames you searched for. I was your default first friend in honor of Myspace Tom.
 
 Had close to 100 signed-up users and some beautiful posts with comments and reactions.
 
