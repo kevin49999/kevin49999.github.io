@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Projects
+title: Apps
 ---
-
-# Apps
 
 ## Birderdex
 
@@ -84,28 +82,28 @@ A sprite game where I drew and made pixel art (thanks to this [tutorial](https:/
 
 Written in 2015 in Objective-C with SpriteKit.
 
-# Misc.
+## Misc.
 
 These assorted projects/ideas and more can be found on my [GitHub page](https://github.com/kevin49999).
 
-## nand2tetris-swift
+### __nand2tetris-swift__
 
 An assembler, vm translator, and compiler written in Swift for the [nand2tetris](https://www.nand2tetris.org/) course.
 
-## DoomFireSwift/FizzleFade
+### __DoomFireSwift/FizzleFade__
 
 I recreated old-school id Software game effects for iOS using Fabien Sanglard's [great blog](https://fabiensanglard.net/doom_fire_psx/index.html) as the reference.
 
-## CARAssetsAnalyzer
+### __CARAssetsAnalyzer__
 
 Analyze your app's assets in an app. Displays sizing information and displays what images would look like unconstrained. 
 
 The goal was to use this to find unused and improperly sized images in a project I was working on at the time.
 
-## ActivityNavigationItem
+### __ActivityNavigationItem__
 
 Animates loading after tapping a navigation item button on iOS. Install with SPM or CocoaPods.
 
-## ImageAlertPresenter
+### __ImageAlertPresenter__
 
 Inspired by the AirDrop alert on iOS. Present UIAlertController with a configurable image.

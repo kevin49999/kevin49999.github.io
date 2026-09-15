@@ -15,5 +15,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - apps.md
+  - games.md
   - blog.md
-  - projects.md
