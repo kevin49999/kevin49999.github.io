@@ -11,6 +11,6 @@ A coffee shop simulation game inspired by [Overcooked](https://store.steampowere
 
 I did the programming and created the pixel art with [Pixaki](https://pixaki.com/). 
 
-Made ith [Godot](https://godotengine.org/).
+Made with [Godot](https://godotengine.org/).
 
 A little stress never hurt anyone.
