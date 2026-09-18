@@ -70,10 +70,6 @@ Built with UIKit. Has had 30 DAUs with people all over the world using it the pa
 
 ## Paintball BST
 
-<a href="/2018/11/11/sunsetting-iOS-side-project.html" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;" target="_blank">
-  <img src="img/app-icons/four99icon.png" alt="499" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
-</a>
-
 A marketplace project I worked on from 2017-2018. I wrote a [blog post](/2018/11/11/sunsetting-iOS-side-project.html) about the experience. 
 
 I was the sole developer, wrote the iOS app (UIKit), backend code (before migrating to Firebase), and ran the [social media](https://www.instagram.com/paintballbstapp/) account. 52 App Store ratings with a 4.8 average.
