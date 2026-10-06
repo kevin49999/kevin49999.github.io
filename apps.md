@@ -35,7 +35,7 @@ Uses Firebase for the backend:
 
 Sharing with just your friends. Supported fullscreen image viewing and allowed users to save images. Friends were contacts you followed or usernames you searched for. I was your default first friend in honor of Myspace Tom.
 
-Had close to 100 signed-up users and some beautiful posts with comments and reactions.
+Had close to 100 sign-ups users and some beautiful posts with comments and reactions.
 
 Built with UIKit.
 
@@ -54,7 +54,7 @@ Used Firebase for the backend:
 
 A daily planning app I made to replace the notebooks I was filling over the years.
 
-Built with UIKit. I still use this app every single day and love it.
+Built with UIKit. I still use this app every single day.
 
 ## Go - Play with Friends
 
